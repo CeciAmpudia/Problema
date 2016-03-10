@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+	.flecha {
+		display: none;
+	}
+	.paso {
+	float: right;
+	width: 55px;
+	height: 55px;
+	padding: 13px;
+	background: #68B4FF;
+	margin: 15px;
+	}
+	h1 {
+		padding: 50px;
+	}
+	.gratis {
+		padding: 10px 0;
+	}
+	.logo {
+		width: 40%;
+	}
+}
+@media (min-width: 768px) {
+	nav ul li a {
+		padding: 20px 10px !important;
+	}
+}
+@media (min-width: 992px) {
+	.flecha {
+		display: none;
+	}
+	.paso {
+	float: right;
+	width: 55px;
+	height: 55px;
+	padding: 13px;
+	background: #68B4FF;
+	margin: 15px;
+	}
+	.navbar-header {
+		width: 30%;
+	}
+	.logo {
+		width: 80%;
+	}
+}

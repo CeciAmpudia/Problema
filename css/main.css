@@ -1,0 +1,191 @@
+a:hover {
+	text-decoration: none;
+}
+.text-white {
+	color: white;
+}
+.text-blue {
+	color: #68B4FF;
+}
+/*---------- SEPARADOR -----------*/
+.separador img {
+	padding-left: 530px;
+}
+.sep-dos {
+	margin-top: -130px;
+	z-index: 2;
+}
+/*---------- HEADER ----------*/
+header {
+	background-image: url("../image/large.jpg");
+	background-size: 111%;
+	background-repeat: no-repeat;
+}
+.logo {
+	width: 80%;
+	height: 35%;
+}
+.icon-bar {
+	color: red;
+}
+nav {
+	background: #68B4FF;
+	opacity: 0.7;
+}
+nav li a {
+	color: white;
+	font-size: 20px;
+	float: right;
+}
+.navbar-nav {
+	float: right;
+}
+h1 {
+	font-size: 50px;
+	margin: 150px;
+}
+.bg-blue {
+	background: #68B4FF;
+	opacity: 0.9;
+}
+.prueba {
+	background: transparent;
+	border: 2px solid white;
+	font-size: 25px;
+	margin-top: 20px;
+}
+/* ---------- NUESTROS SERVICIOS ---------- */
+section {
+	margin: 70px 0;
+}
+#servicios h2 {
+	margin: 50px 0;
+}
+h3 {
+	margin: 30px;
+	color: #4E7EB8;
+}
+.bg-white {
+	background: white;
+}
+.icon-serv {
+	margin: 0 auto;
+	width: 130px;
+	height: 130px;
+	padding: 45px;
+	-webkit-box-shadow: 0px 2px 3px #999;
+}
+.icon {
+	font-size: 40px;
+}
+#servicios p {
+	margin: 30px;
+}
+/* ---------- COMO USARLO --------------- */
+
+.txt {
+	margin: 30px 0;
+}
+.ejemplo {
+	font-size: 30px;
+	display: inline;
+}
+.logo2 {
+	display: inline;
+	width: 300px;
+}
+.flecha {
+	margin: 0 225px;
+}
+/* --------- LO QUIERO ----------*/
+.txt2 {
+	padding: 15px;
+}
+#lo-quiero h2 {
+	margin: 15px 55px;
+}
+.img-quiero {
+	background-image: url("../image/sec-2.jpg");
+	background-size: cover;
+	height: 600px;
+	background-repeat: no-repeat;
+	-webkit-filter: brightness(60%);
+	filter: brightness(60%);
+	z-index: -1;
+}
+.paso {
+	float: left;
+	width: 55px;
+	height: 55px;
+	padding: 13px;
+	background: #68B4FF;
+	margin: 5px -35px;
+}
+.paso2 {
+	margin: 20px 0;
+}
+i {
+	font-size: 30px;
+}
+/* ---------- POR QUE ---------------*/
+
+.txt3 {
+	padding: 20px 0;
+}
+/* -------------- FOOTER --------------*/
+footer {
+	background: #2A3541;
+}
+.usar {
+	display: inline;
+}
+.banner {
+	width: 100%;
+}
+.red-soc {
+	font-size: 40px;
+}
+.red-soc span {
+	margin: 15px;
+}
+.gratis {
+	padding: 20px 0;
+}
+.foot {
+	margin: 20px 0;
+}
+
+/* ............... CONTACTO ................ */
+#contacto {
+	background-image: url("../image/large.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#contacto form {
+	background: white;
+	width: 70%;
+	padding: 0px 10px 0px;
+	margin: 0 auto;
+	margin-top: 90px;
+}
+#contacto label {
+	width: 16% !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+#contacto input {
+	width: 60% !important;
+	margin: 0 !important;
+}
+.form-group {
+	margin-left: 20px !important;
+}
+#contacto h3 {
+	border-bottom: 1px solid;
+	padding: 10px 0;
+	color: black;
+}
+#contacto a {
+	color: black;
+	text-decoration: underline;
+}
